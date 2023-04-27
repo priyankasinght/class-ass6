@@ -1,0 +1,17 @@
+.list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10rem;
+}
+
+.number {
+    color: rgb(11, 45, 92);
+    margin-left: 1rem;
+}
+
+.description {
+    color: rgb(27, 78, 150);
+    margin-left: -5rem;
+}

@@ -1,0 +1,28 @@
+.main-section1{
+    margin-top: 1rem;
+}
+
+.container {
+    background-color: rgb(8, 7, 73);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    height: 50vh;
+    width: 100vw;
+}
+
+.title {
+    font-size: 3rem;
+}
+
+.btn {
+    border: none;
+    background-color: rgb(15, 114, 12);
+    color: white;
+    height: 3rem;
+    width: 10rem;
+    cursor: pointer;
+    font-weight: bold;
+}
